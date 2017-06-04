@@ -1,0 +1,27 @@
+.container_padding {
+    padding: 75px 25px 10px 25px;
+}
+#caption_textedit {
+    font-size: 120%;
+    padding-top: 0.5%;
+    text-align: center; 
+}
+
+#para_text {
+    font-size: 100%;
+}
+
+p {
+    text-align: justify;
+}
+.ul_elements {
+    text-align: justify;
+    font-size: 100%;
+}
+
+.footer_edited {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    word-spacing: 25px;
+}
